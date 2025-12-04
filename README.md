@@ -36,13 +36,11 @@ Final thought: My goal is to
 * ✉️  You can contact me at [mohammadizi1401@gmail.com](mailto:mohammadizi1401@gmail.com)
 * 🧠  I'm learning Next JS and TypeScript
 * ⚡  Besides coding, I love exploring design systems, color palettes, and micro-interactions to make web apps more enjoyable.
-I spend my free time experimenting with React, Next.js, and Tailwind CSS to create smooth, interactive, and responsive userinterfaces.
 * 📝 I regularly write articles on I regularly write articles on JavaScript, React, and Front-end Development.
 * 💬 Ask me about  Ask me about Front-end development and UI/UX design
   
-<a href="https://www.github.com/00mohammad" target="_blank" rel="noreferrer">
-<img
-src="https://img.shields.io/github/followers/00mohammad?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+<a href="https://www.github.com/00mohammad" target="_blank" rel="noreferrer"></a>
+
 <img src="https://camo.githubusercontent.com/8f548bdaf750ba40cca0aa85f92f425cc99804b23d780c129128909236736a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686f7365696e6d6f68616d6d6164692d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hoseinmohammadi-dev" data-canonical-src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
 ### Skills
