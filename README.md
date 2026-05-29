@@ -58,7 +58,7 @@ Final thought: My goal is to
 
 <b>My GitHub Stats</b>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=00mohammad&theme=dark)
+![GitHub Stats](https://user-images.githubusercontent.com/107488620/183304038-2788ab5d-4c02-45e9-a724-990f27061c54.png)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=00mohammad&layout=compact&theme=dark)
 
