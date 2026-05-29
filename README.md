@@ -27,7 +27,6 @@ PS! Take a look at my GitHub and you'll see:
 My projects are practical and useful
 
 My code is clean and scalable
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 I place special value on UI/UX
 
 Final thought: My goal is to
@@ -40,7 +39,7 @@ Final thought: My goal is to
   
 <a href="https://www.github.com/00mohammad" target="_blank" rel="noreferrer"></a>
 
-<img src="https://camo.githubusercontent.com/8f548bdaf750ba40cca0aa85f92f425cc99804b23d780c129128909236736a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686f7365696e6d6f68616d6d6164692d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hoseinmohammadi-dev" data-canonical-src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### Skills
 
