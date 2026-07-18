@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlign=100&descAlignY=100&descSize=0&fontAlign=100&fontAlignY=100" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=821FF7&amp;height=120&amp;section=footer" style="max-width: 100%;">
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Honarmand
 ==========================================================================================================================================
 
