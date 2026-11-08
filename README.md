@@ -1,40 +1,42 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Honarmand
 ==========================================================================================================================================
 
-Frontend Developer 
+Frontend Developer | UI/UX Enthusiast
 -------------------
 
-I'm completely at home with HTML/CSS, JavaScript, and React
+I'm a Front-End Developer passionate about building modern, responsive, and user-friendly web experiences.
 
-I build projects quickly and cleanly using Tailwind
+I enjoy turning ideas and designs into functional websites using modern front-end technologies, with a strong focus on clean code, responsive layouts, and user experience.
 
-My expertise:
+### 🚀 What I Do
 
-My responsive designs work flawlessly on any device
+- Build responsive and modern websites using HTML, CSS, and JavaScript.
+- Develop interactive user interfaces with React.
+- Create clean and reusable components.
+- Use Tailwind CSS to build consistent and maintainable interfaces.
+- Pay attention to UI/UX principles, visual details, and usability.
 
-My portfolio:
+### 🎯 What Drives Me
 
-I share my projects on GitHub for both showcasing and community use
+I'm always looking for opportunities to learn, improve my skills, and build better digital experiences.
 
-What sets me apart:
+Beyond coding, I enjoy exploring design systems, color palettes, typography, and micro-interactions to make web applications more intuitive and enjoyable.
 
-My thirst for learning never ends - always exploring new tech and better development approaches
+### 📂 My Portfolio
 
-PS! Take a look at my GitHub and you'll see:
+I share my projects on GitHub to showcase my work, experiment with new technologies, and contribute to the developer community.
 
-My projects are practical and useful
+### 🌱 Currently Learning
 
-My code is clean and scalable
-I place special value on UI/UX
+- Next.js
+- TypeScript
+- Advanced React concepts
+- UI/UX Design and Design Systems
 
-Final thought: My goal is to
+### 📫 Let's Connect
 
-* ✉️  You can contact me at [mohammadizi1401@gmail.com](mailto:mohammadizi1401@gmail.com)
-* 🧠  I'm learning Next JS and TypeScript
-* ⚡  Besides coding, I love exploring design systems, color palettes, and micro-interactions to make web apps more enjoyable.
-* 📝 I regularly write articles on I regularly write articles on JavaScript, React, and Front-end Development.
-* 💬 Ask me about  Ask me about Front-end development and UI/UX design
-  
+- ✉️ Email: [mohammadizi1401@gmail.com](mailto:mohammadizi1401@gmail.com)
+- 💬 Ask me about Front-End Development, React, and UI/UX Design.
 <a href="https://www.github.com/00mohammad" target="_blank" rel="noreferrer"></a>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
