@@ -65,3 +65,4 @@ I share my projects on GitHub to showcase my work, experiment with new technolog
 <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png" style="max-width: 100%;">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlign=100&descAlignY=100&descSize=0&fontAlign=100&fontAlignY=100&section=footer" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=821FF7&amp;height=120&amp;section=footer" style="max-width: 100%;">
+
